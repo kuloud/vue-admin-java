@@ -23,3 +23,7 @@
 /dist/
 /nbdist/
 /.nb-gradle/
+
+.lh/
+api-admin/target/
+api-common/target/
