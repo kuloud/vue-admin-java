@@ -13,6 +13,12 @@
 
     <dependencies>
 
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-actuator</artifactId>
+        </dependency>
+
+
         <!--引入公共模块，版本继承父级-->
         <dependency>
             <groupId>com.lmxdawn</groupId>
